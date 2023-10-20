@@ -77,7 +77,7 @@ function Sidebar() {
               <li>
                 <a
                   className="dropdown-item text-black"
-                  href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail&ec=GBRAFw"
+                  href="mailto:malvikamaganti@gmail.com"
                   target="/blank"
                 >
                   <MdEmail className="fs-5" /> Email
@@ -90,7 +90,7 @@ function Sidebar() {
               <li>
                 <a
                   className="dropdown-item text-black"
-                  href="https://www.linkedin.com"
+                  href="https://www.linkedin.com/in/malvika-maganti-56587a250"
                   target="/blank"
                 >
                   <AiFillLinkedin className="fs-5" /> LinkedIn
@@ -103,7 +103,7 @@ function Sidebar() {
               <li>
                 <a
                   className="dropdown-item text-black"
-                  href="https://join.skype.com/invite/XcmpKERo7On2"
+                  href="https://www.skype.com/en/"
                   target="/blank"
                 >
                   <AiFillSkype className="fs-5" /> Skype
